@@ -1,0 +1,12 @@
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\bin\Debug\net5.0\Entidades Clase 3.deps.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\bin\Debug\net5.0\Entidades Clase 3.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\bin\Debug\net5.0\Entidades Clase 3.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\Entidades Clase 3.csproj.AssemblyReference.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\Entidades Clase 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\Entidades Clase 3.AssemblyInfoInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\Entidades Clase 3.AssemblyInfo.cs
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\Entidades Clase 3.csproj.CoreCompileInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\Entidades Clase 3.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\refint\Entidades Clase 3.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\Entidades Clase 3.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Entidades Clase 3\obj\Debug\net5.0\ref\Entidades Clase 3.dll

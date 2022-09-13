@@ -1,0 +1,19 @@
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\bin\Debug\net5.0-windows\5 ejercio i01.exe
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\bin\Debug\net5.0-windows\5 ejercio i01.deps.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\bin\Debug\net5.0-windows\5 ejercio i01.runtimeconfig.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\bin\Debug\net5.0-windows\5 ejercio i01.runtimeconfig.dev.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\bin\Debug\net5.0-windows\5 ejercio i01.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\bin\Debug\net5.0-windows\5 ejercio i01.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.csproj.AssemblyReference.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\_5_ejercio_i01.Form1.resources
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.csproj.GenerateResource.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.AssemblyInfoInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.AssemblyInfo.cs
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.csproj.CoreCompileInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\refint\5 ejercio i01.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\5 ejercio i01.genruntimeconfig.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\ref\5 ejercio i01.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\5 ejercio i01\obj\Debug\net5.0-windows\_5_ejercio_i01.Frm_Saludar.resources

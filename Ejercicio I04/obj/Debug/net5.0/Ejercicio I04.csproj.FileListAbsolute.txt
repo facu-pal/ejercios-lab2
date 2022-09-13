@@ -1,0 +1,16 @@
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.exe
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.deps.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.runtimeconfig.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.runtimeconfig.dev.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.csproj.AssemblyReference.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.AssemblyInfoInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.AssemblyInfo.cs
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.csproj.CoreCompileInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\refint\Ejercicio I04.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.genruntimeconfig.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\Ejercicio de la pagina\Ejercicio I04\obj\Debug\net5.0\ref\Ejercicio I04.dll
