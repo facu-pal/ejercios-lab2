@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Entidades Clase 3\\Entidades Clase 3.csproj": {}
+    "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Entidades Clase 3\\Entidades Clase 3.csproj": {}
   },
   "projects": {
-    "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Entidades Clase 3\\Entidades Clase 3.csproj": {
+    "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Entidades Clase 3\\Entidades Clase 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Entidades Clase 3\\Entidades Clase 3.csproj",
+        "projectUniqueName": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Entidades Clase 3\\Entidades Clase 3.csproj",
         "projectName": "Entidades Clase 3",
-        "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Entidades Clase 3\\Entidades Clase 3.csproj",
+        "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Entidades Clase 3\\Entidades Clase 3.csproj",
         "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
-        "outputPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Entidades Clase 3\\obj\\",
+        "outputPath": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Entidades Clase 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",

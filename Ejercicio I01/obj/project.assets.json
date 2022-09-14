@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Ejercicio I01\\Ejercicio I01.csproj",
+      "projectUniqueName": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Ejercicio I01\\Ejercicio I01.csproj",
       "projectName": "Ejercicio I01",
-      "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Ejercicio I01\\Ejercicio I01.csproj",
+      "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Ejercicio I01\\Ejercicio I01.csproj",
       "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
-      "outputPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Ejercicio I01\\obj\\",
+      "outputPath": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Ejercicio I01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",

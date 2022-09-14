@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "8 ejercio i01/1.0.0": {
+        "runtime": {
+          "8 ejercio i01.dll": {}
+        }
+      },
+      "Entidades clase 8/1.0.0": {
+        "runtime": {
+          "Entidades clase 8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8 ejercio i01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades clase 8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

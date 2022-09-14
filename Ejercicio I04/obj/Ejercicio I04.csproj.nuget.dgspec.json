@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Ejercicio I04\\Ejercicio I04.csproj": {}
+    "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Ejercicio I04\\Ejercicio I04.csproj": {}
   },
   "projects": {
-    "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Ejercicio I04\\Ejercicio I04.csproj": {
+    "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Ejercicio I04\\Ejercicio I04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Ejercicio I04\\Ejercicio I04.csproj",
+        "projectUniqueName": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Ejercicio I04\\Ejercicio I04.csproj",
         "projectName": "Ejercicio I04",
-        "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Ejercicio I04\\Ejercicio I04.csproj",
+        "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Ejercicio I04\\Ejercicio I04.csproj",
         "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
-        "outputPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\Ejercicio de la pagina\\Ejercicio I04\\obj\\",
+        "outputPath": "D:\\software\\visual\\2do intento\\ejercios clases\\ejercios-lab2\\Ejercicio I04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",

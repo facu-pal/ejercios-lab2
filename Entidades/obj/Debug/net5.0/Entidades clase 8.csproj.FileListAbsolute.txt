@@ -1,0 +1,12 @@
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\bin\Debug\net5.0\Entidades clase 8.deps.json
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\bin\Debug\net5.0\Entidades clase 8.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\bin\Debug\net5.0\Entidades clase 8.pdb
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\Entidades clase 8.csproj.AssemblyReference.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\Entidades clase 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\Entidades clase 8.AssemblyInfoInputs.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\Entidades clase 8.AssemblyInfo.cs
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\Entidades clase 8.csproj.CoreCompileInputs.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\Entidades clase 8.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\refint\Entidades clase 8.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\Entidades clase 8.pdb
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\Entidades\obj\Debug\net5.0\ref\Entidades clase 8.dll
