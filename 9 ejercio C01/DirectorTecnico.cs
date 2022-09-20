@@ -23,8 +23,7 @@ namespace _9_entidad_C01
         {
             StringBuilder sb = new StringBuilder();
 
-            //sb.AppendLine(base.MostrarDatos());
-            sb.AppendLine("Nombre "+Nombre);
+            sb.AppendLine(base.MostrarDatos());
             sb.AppendLine("fecha de nacimiento: " + this.fechaNacimiento.ToString());
             return sb.ToString();
         }
