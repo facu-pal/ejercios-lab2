@@ -1,0 +1,12 @@
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\bin\Debug\net5.0\9 entidad C01.deps.json
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\bin\Debug\net5.0\9 entidad C01.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\bin\Debug\net5.0\9 entidad C01.pdb
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\9 entidad C01.csproj.AssemblyReference.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\9 entidad C01.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\9 entidad C01.AssemblyInfoInputs.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\9 entidad C01.AssemblyInfo.cs
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\9 entidad C01.csproj.CoreCompileInputs.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\9 entidad C01.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\refint\9 entidad C01.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\9 entidad C01.pdb
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\9 ejercio C01\obj\Debug\net5.0\ref\9 entidad C01.dll

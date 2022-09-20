@@ -57,9 +57,6 @@ namespace Entidades_clase_8
             return !(n == c);
         }
 
-
-
-
         public static bool operator +(Negocio n, Cliente c)
         {
             bool retorno = false;
@@ -80,12 +77,6 @@ namespace Entidades_clase_8
             }
             return retorno;
         }
-
-
-
-
-
-
 
     }
 }

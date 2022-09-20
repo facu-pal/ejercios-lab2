@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "9 ejercio i01/1.0.0": {
+        "runtime": {
+          "9 ejercio i01.dll": {}
+        }
+      },
+      "Entidad 9/1.0.0": {
+        "runtime": {
+          "Entidad 9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9 ejercio i01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidad 9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
