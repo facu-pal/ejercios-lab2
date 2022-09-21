@@ -1,0 +1,12 @@
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\bin\Debug\net5.0\10 Entidades I02.deps.json
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\bin\Debug\net5.0\10 Entidades I02.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\bin\Debug\net5.0\10 Entidades I02.pdb
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\10 Entidades I02.csproj.AssemblyReference.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\10 Entidades I02.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\10 Entidades I02.AssemblyInfoInputs.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\10 Entidades I02.AssemblyInfo.cs
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\10 Entidades I02.csproj.CoreCompileInputs.cache
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\10 Entidades I02.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\refint\10 Entidades I02.dll
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\10 Entidades I02.pdb
+D:\software\visual\2do intento\ejercios clases\ejercios-lab2\10 Entidades I02\obj\Debug\net5.0\ref\10 Entidades I02.dll
