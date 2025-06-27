@@ -88,27 +88,24 @@ TBU
 
 ---
 
-## 📷 QR
+## QR
 
 | QR                                | QR                             |
 |----------------------------------|--------------------------------|
 | **Lista de Espera**              | **Mesa 1**                     |
-| !(![lista_de_espera](https://github.com/user-attachments/assets/566b3bfa-a8d2-4398-ae0b-0a6c74c0a2cd)
-) |(![mesa_1](https://github.com/user-attachments/assets/958a3e71-90ce-400d-ba50-3e26da6e949c)
-)    |
+| ![lista_de_espera](https://github.com/user-attachments/assets/cd97511d-c6dd-4ba0-96dc-dc96f6bce6b2) | ![mesa_1](https://github.com/user-attachments/assets/8186af39-ec2b-48bc-ba84-e51b1d500919)|
 | **Mesa 2**                       | **Mesa 3**                     |
-| ![mesa_2](https://github.com/user-attachments/assets/4837e82f-0642-415b-9d4a-356390524221)
-       |![mesa_3](https://github.com/user-attachments/assets/f3b46426-11c7-4f1b-befc-13c6fcd1be38)
-    |
+| ![mesa_2](https://github.com/user-attachments/assets/418b4196-1d49-4d1c-8ac0-9d002488925e)|  ![mesa_3](https://github.com/user-attachments/assets/5480d4d1-6f5f-4afd-8c72-26c3f375940b) |
 | **Mesa 4**                       | **Propina 0%**                 |
-| ![](./assets/qr/mesa4.png)       | ![](./assets/qr/propina0.png)  |
+|  ![mesa_4](https://github.com/user-attachments/assets/df748111-1cd1-4aea-8f31-3cc4a1842458) | ![propina_0](https://github.com/user-attachments/assets/26071d89-60bb-455d-be50-1a93e1eaa9f5) |
 | **Propina 5%**                   | **Propina 10%**                |
-| ![](./assets/qr/propina5.png)    | ![](./assets/qr/propina10.png) |
+| ![propina_5](https://github.com/user-attachments/assets/a5fd76d5-a84f-4e4f-b551-b6d704122850)   | ![propina_10](https://github.com/user-attachments/assets/c9cdedbf-e7b0-4304-a0c8-8a52320cc0d4)|
 | **Propina 15%**                  | **Propina 20%**                |
-| ![](./assets/qr/propina15.png)   | ![](./assets/qr/propina20.png) |
+|![propina_15](https://github.com/user-attachments/assets/3f43fc2f-73a5-474c-8c61-cee8a3fdec89) |![propina_20](https://github.com/user-attachments/assets/2adea7c1-be75-490f-939e-2855bec8384e) |
 
 ---
 
 ## Licencia
 
 Este proyecto es parte de las **Prácticas Profesionales Supervisadas** del equipo **AngularTaste**.
+
