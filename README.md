@@ -1,4 +1,12 @@
 # Proyecto Restaurante AngularTaste
+##¿Que es?
+Una aplicación móvil que permite gestionar y administrar tanto los pedidos así como los clientes y empleados de un restaurante.
+
+## Integrantes
+Facundo Palmier
+Eduardo Cruz
+Federico Arevalo
+
 
 ¡Bienvenido al repositorio del proyecto AngularTaste! Este repositorio contiene el código fuente y los recursos necesarios para desarrollar un sistema de gestión para un restaurante.
 
@@ -12,7 +20,7 @@
 ### Login y botones de ingreso
 - **Federico Arevalo**
 ### Validaciones de usuario (si esta aceptado o rechazado)
--  facundo Palmieri
+-  Facundo Palmieri
 ### conexión con la base de datos
 - Eduardo Cruz
 
@@ -74,7 +82,7 @@
 | **Correo de Aceptación**         | **Correo de Rechazo**          |
 | ![image](https://github.com/user-attachments/assets/8a1e7870-95bb-49cf-b710-4a5db5416d71)  | ![image](https://github.com/user-attachments/assets/7b54c928-4ab0-45ed-ac38-82a597e25ec2) |
 | **Principal Maitre**             | **Principal Cocinero**         |
-| [image](https://github.com/user-attachments/assets/839b34ac-09f0-4168-a835-5a97f75b74ca)     | ![image](https://github.com/user-attachments/assets/8b008313-42f8-4557-8dc4-c38a58c11c1b) |
+| ![image](https://github.com/user-attachments/assets/e0fe931e-cff8-4310-bb64-9808018d187f)     | ![image](https://github.com/user-attachments/assets/8b008313-42f8-4557-8dc4-c38a58c11c1b) |
 | **Principal Bartender**          | **Principal Mozo**             |
 | ![image](https://github.com/user-attachments/assets/324da385-5156-4415-a0b5-4a452f66aa2a) | ![image](https://github.com/user-attachments/assets/b9ff110a-db59-4d34-be4f-641741c0f20e)|
 | **Detalle (Mozo)**               | **Consultas del Cliente**      |
