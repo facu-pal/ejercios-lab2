@@ -11,80 +11,86 @@
 
 ### Login y botones de ingreso
 - **Federico Arevalo**
+### Validaciones de usuario (si esta aceptado o rechazado)
+-  facundo Palmieri
+### conexión con la base de datos
+- Eduardo Cruz
 
 ### Altas
 - **Dueño / Supervisor:** Federico Arevalo  
 - **Empleados / Clientes:** Eduardo Cruz  
 - **Mesa / Productos:** Facundo Palmieri
 
+  ### Pedido
+- ** servicio de pedido: Facundo Palmieri
+- ** creacion de pedido y seguimiento: Facundo Palmieri
+- ** detalles del pedido: Facundo Palmieri
+- ** asignacion de mesa: Facundo Palmieri, Eduardo Cruz
+  
 ### QRs
-- **Ingreso al local:** Federico Arevalo  
-- **QR de mesa:** Eduardo Cruz  
+- ** componente de qr:** Federuci Arevalo
+- **Ingreso al local:** Facundo Palmieri  
+- **QR de mesa:** Facundo Palmieri  
 - **QR de propina:** Facundo Palmieri
 
 ### Encuestas
 - **Responsables:** Federico Arevalo, Eduardo Cruz, Facundo Palmieri
+- ** Completar encuesta: Eduardo Cruz
+- ** Ver respuesta de encuesta: Facundo Palmieri
+  
+### Consultas
+- ** Servicio: Facundo Palmeiri
+- ** Pagina: Facundo Palmieri
 
 ### Notificaciones
+- ** backend y servicio: Eduardo Cruz
 - **Nuevo cliente / Ingreso local:** Facundo Palmieri  
-- **Consultar mozo / Confirmar pedido:** Federico Arevalo  
-- **Pedido listo / Delivery:** Eduardo Cruz
+- **Consultar mozo / Confirmar pedido:** Facundo Palmieri   
+- **Pedido listo:** Facundo Palmieri  
 
 ### Gestión
 - **Agregar cliente:** Eduardo Cruz  
-- **Ingreso / Pedidos:** Facundo Palmieri, Federico Arevalo
+- **Ingreso / Pedidos:** Facundo Palmieri
 
 ### Otros
-- **Icono / Splash / Correos / Sonidos:** Responsables asignados por pantalla
+- **Icono : Eduardo Cruz, Facundo Palmieri, Federico Arevalo 
+- **Splash : Facundo Palmieri
+- ** Correos : Eduardo Cruz
+
+
 
 ---
 
-## Icono
-
-TBU
-
----
-
-## Pantallas principales
-
-- **Inicio**: TBU  
-- **Opciones de registro**: TBU  
-- **Login**: TBU  
-- **Registro**: TBU  
-- **Registrarse como anónimo**: TBU
-
----
-
-## 📄 Página
+##  Página
 
 | Pantalla                          | Pantalla                        |
 |----------------------------------|---------------------------------|
 | **Icono**                        | **Splash**                      |
-| ![](./assets/img/icono.png)      | ![](./assets/img/splash.png)   |
+|   ![image](https://github.com/user-attachments/assets/6107d745-449a-4872-9bf1-5065fc883ede) | ![image](https://github.com/user-attachments/assets/85f09a2c-343e-4a73-b00e-c1e938a14bbe)  |
 | **Inicio de sesión**             | **Registro**                    |
-| ![](./assets/img/login.png)      | ![](./assets/img/register.png) |
+| ![image](https://github.com/user-attachments/assets/576d2ea4-aa6a-47e1-a20c-965b56beef57)      | ![image](https://github.com/user-attachments/assets/44e91a67-8058-4fea-a0e1-923b2b31ef71)|
 | **Principal Dueño/Supervisor**   | **Aceptar o Rechazar Cliente** |
-| ![](./assets/img/duenio.png)     | ![](./assets/img/aprobacion.png) |
+| ![image](https://github.com/user-attachments/assets/045126a8-a188-43fc-bca3-1c3558053d6a) | ![image](https://github.com/user-attachments/assets/171eda69-1960-40fa-bff2-9bd147ea02d2) |
 | **Correo de Aceptación**         | **Correo de Rechazo**          |
-| ![](./assets/img/correo-ok.png)  | ![](./assets/img/correo-no.png) |
+| ![image](https://github.com/user-attachments/assets/8a1e7870-95bb-49cf-b710-4a5db5416d71)  | ![image](https://github.com/user-attachments/assets/7b54c928-4ab0-45ed-ac38-82a597e25ec2) |
 | **Principal Maitre**             | **Principal Cocinero**         |
-| ![](./assets/img/maitre.png)     | ![](./assets/img/cocinero.png) |
+| [image](https://github.com/user-attachments/assets/839b34ac-09f0-4168-a835-5a97f75b74ca)     | ![image](https://github.com/user-attachments/assets/8b008313-42f8-4557-8dc4-c38a58c11c1b) |
 | **Principal Bartender**          | **Principal Mozo**             |
-| ![](./assets/img/bartender.png)  | ![](./assets/img/mozo.png)     |
+| ![image](https://github.com/user-attachments/assets/324da385-5156-4415-a0b5-4a452f66aa2a) | ![image](https://github.com/user-attachments/assets/b9ff110a-db59-4d34-be4f-641741c0f20e)|
 | **Detalle (Mozo)**               | **Consultas del Cliente**      |
-| ![](./assets/img/detalle-mozo.png) | ![](./assets/img/consultas.png) |
+| ![image](https://github.com/user-attachments/assets/6e56b241-b3fb-4cc8-ad1b-b6abaed75f51)|![image](https://github.com/user-attachments/assets/f235169e-2064-4693-8cd3-d84247521b1e) |
 | **Principal Cliente**            | **Lista de Espera**            |
-| ![](./assets/img/cliente.png)    | ![](./assets/img/lista-espera.png) |
+| ![image](https://github.com/user-attachments/assets/0ef1b545-d4aa-4e80-a608-66df5d72ce1c)   | ![image](https://github.com/user-attachments/assets/0da1c257-e89a-4ba5-b4e8-8a390d4a5dbc) |
 | **Carta / Menú**                 | **Detalle del Pedido**         |
-| ![](./assets/img/carta.png)      | ![](./assets/img/detalle-pedido.png) |
+| ![image](https://github.com/user-attachments/assets/111b8b1f-9a15-4f77-aa1a-7be96f12274f)      | ![image](https://github.com/user-attachments/assets/caaf2a8a-6711-47b5-8dac-c2c8542c86ba) |
 | **Menú Principal**               | **Estado Pedido Cliente**      |
-| ![](./assets/img/menu-principal.png) | ![](./assets/img/estado-cliente.png) |
-| **Completar Encuesta**           | **Ver Encuesta Parte 1**       |
-| ![](./assets/img/encuesta.png)   | ![](./assets/img/encuesta1.png) |
+| ![image](https://github.com/user-attachments/assets/4dc53c59-7d42-4dde-bf1e-7d2f73cb5a7e) | ![image](https://github.com/user-attachments/assets/8d88543c-e72a-4490-9389-d8538d705e1f) |
+| **Respuestas Encuesta**           | **Ver Encuesta Parte 1**       |
+| ![image](https://github.com/user-attachments/assets/dba516cf-3d4f-44fe-9272-326a9d9dcf57)  | ![image](https://github.com/user-attachments/assets/213832a9-080a-4635-8188-16e38b29c80c) |
 | **Ver Encuesta Parte 2**         | **Ver Encuesta Parte 3**       |
-| ![](./assets/img/encuesta2.png)  | ![](./assets/img/encuesta3.png) |
+| ![image](https://github.com/user-attachments/assets/55f472c6-4842-4aca-93f6-e073f8f7dbb1) | ![image](https://github.com/user-attachments/assets/05884282-3710-4661-a9b4-deda1a32505e) |
 | **Página para Pagar**            |                                 |
-| ![](./assets/img/pago.png)       |                                 |
+| ![image](https://github.com/user-attachments/assets/c99e3dde-5fe0-4f73-a90d-6df5d5888e8f)       |                                 |
 
 ---
 
